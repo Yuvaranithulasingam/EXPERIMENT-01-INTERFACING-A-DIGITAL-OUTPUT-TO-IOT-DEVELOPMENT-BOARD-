@@ -144,8 +144,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
+
+LED OFF:
  
  ![iot off](https://github.com/Yuvaranithulasingam/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/097649ec-4a45-437b-b144-f24aa7560a60)
+
+ LED ON:
 
 ![iot on](https://github.com/Yuvaranithulasingam/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121418522/5a13d751-3ce0-413c-8f78-cdb5708b2aa8)
 
